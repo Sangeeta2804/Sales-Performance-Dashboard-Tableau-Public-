@@ -43,7 +43,7 @@ The goal of this project is to:
 
 ## 🔗 Tableau Public Dashboard
 
-[Add your Tableau Public link here]
+[(https://public.tableau.com/app/profile/sangeeta.yadav3529/viz/Sales_dashboard_v2_17770344921930/SalesDashboard)]
 
 ---
 
