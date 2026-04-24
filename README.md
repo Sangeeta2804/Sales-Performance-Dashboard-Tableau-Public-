@@ -4,7 +4,7 @@ This project presents an interactive Sales Dashboard developed using Tableau Pub
 The dashboard provides a comprehensive overview of key performance indicators (KPIs), trends over time, and category-wise insights to support data-driven decision-making.
 
 ---
- ** 2. Project Description (Copy-Paste for GitHub)
+ # 2. Project Description 
 ## 🎯 Objective
 
 The goal of this project is to:
@@ -49,7 +49,9 @@ The goal of this project is to:
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Dashboard Preview](dashboard.png)
+
+
 
 ---
 
